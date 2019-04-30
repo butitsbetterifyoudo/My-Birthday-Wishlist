@@ -1,0 +1,126 @@
+h1 {
+    font-size: 45px;
+    
+}
+
+body {
+    text-align: center;
+    background-image:url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+
+.input {
+    display: flex;
+}
+
+.harry {
+    display: flex;
+    font-size: 22px;
+}
+
+#image{
+    width: 20%;
+    border: dashed white 10px;
+    border-bottom: dashed white  10px;
+    border-right: dashed white   5px;
+    margin: 0px;
+    padding: 10px;
+} 
+
+#item {
+    width: 40%;
+    border: dashed white  10px;
+    border-left: dashed white  5px;
+    border-right: dashed white 5px;
+    margin: 0px;
+    padding: 10px;
+}
+
+#price {
+    width: 40%;
+    border: dashed white 10px;
+    border-left: dashed white 5px;
+    margin: 0px;
+    padding: 10px;
+}
+
+.Adele {
+    display: flex;
+}
+
+#hello {
+    width: 20%;
+    border-right: dashed white 5px;
+}
+
+#to {
+    width: 40%;
+    border-right: dashed white 5px;
+    border-left: dashed white 5px;
+}
+
+#you {
+    width: 40%;
+    border-left: dashed white 5px;
+}
+
+ul {
+    list-style-type: none;
+    border: dashed white 10px;
+    border-top: none;
+    margin: 0px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    width: 100px;
+}
+
+.image {
+    font-size: 20px;
+    width: 20%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.item {
+    font-size: 20px;
+    width: 40%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.price {
+    font-size: 20px;
+    width: 40%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.add {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.purchase {
+    font-size: 20px;
+    margin: 20px;
+    display: none;
+}
+
+.number {
+    font-size: 30px;
+}
+
+.total {
+    font-size: 30px;
+    display: none;
+}
